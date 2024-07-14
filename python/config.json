@@ -1,0 +1,7 @@
+{
+  "serial_port": "/dev/ttyUSB0",
+  "baud_rate": 9600,
+  "camera_index": 0,
+  "model_prototxt": "models/deploy.prototxt",
+  "model_caffemodel": "models/weights.caffemodel"
+}
